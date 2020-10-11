@@ -1,0 +1,5 @@
+#image specific
+background: image-url('misty-road.png');
+
+#asset agnostic
+background: background: asset-url("misty-road.jpeg", image)
