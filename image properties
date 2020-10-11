@@ -1,4 +1,4 @@
 #config/production.rb
-APPLICATIONNAME::Application.configure do
+DJCHARRA::Application.configure do
      config.assets.compile = true
 end
