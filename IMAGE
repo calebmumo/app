@@ -1,0 +1,5 @@
+#image specific
+<%= image_path('misty-road.png') %>
+
+#asset agnostic
+<%= asset_path('misty-road.png') %>
